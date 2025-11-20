@@ -1,5 +1,5 @@
 ## Exp. No. 4
-**Date:**  
+
 
 ## RC INTEGRATOR AND RC DIFFERENTIATOR
 <img width="486" height="664" alt="image" src="https://github.com/user-attachments/assets/9cd74d70-fbc8-41a1-9297-ac8f65775583" />
@@ -21,13 +21,19 @@
 <img width="437" height="331" alt="image" src="https://github.com/user-attachments/assets/ac12584c-7c60-4baa-a8e2-a0d1bd24150e" />
 
 # Tabulation
+<img width="426" height="287" alt="image" src="https://github.com/user-attachments/assets/ac41c6e6-5fef-4530-8d59-5bccdf614c6b" />
 
 
 # Graph
+![WhatsApp Image 2025-11-18 at 20 57 54_571b234b](https://github.com/user-attachments/assets/20f91378-eb8c-4cc3-a256-0932c3a00a5f)
+![WhatsApp Image 2025-11-18 at 20 58 07_27120c51](https://github.com/user-attachments/assets/977b2065-5baf-4186-8dec-68b3adc7c96a)
+
 
 
 # Sample images 
+![WhatsApp Image 2025-11-18 at 20 57 39_cd9bc961](https://github.com/user-attachments/assets/57fa83c9-8a64-40cd-bb59-56b652849315)
+<img width="369" height="380" alt="image" src="https://github.com/user-attachments/assets/1b76827e-a752-4f0f-8fef-dafecfbaeb62" />
 
 
 # Result
-
+ Hence it is verified.
