@@ -31,14 +31,10 @@
 ![WhatsApp Image 2025-11-23 at 13 46 18_4c453b51](https://github.com/user-attachments/assets/8b8b005e-0e3b-415f-a991-e65d95081bd7)
 
 
-
-
 # Sample images 
 ![WhatsApp Image 2025-11-23 at 13 47 36_03c57ff8](https://github.com/user-attachments/assets/0f9201c8-f01d-40c2-8a29-f7b771a40fde)
 
 ![WhatsApp Image 2025-11-23 at 13 48 00_f3edb249](https://github.com/user-attachments/assets/cac52848-0607-4655-9ba0-1f0dab76645f)
-
-
 
 
 # Result
